@@ -6,4 +6,6 @@
 [Sources: https://josm.openstreetmap.de/ and https://www.openstreetmap.org/export#map=17/49.01350/8.41702]
 
 3. plansKA_big_plus.xml contains a basic amount of plans for 4 groups of about 4-5 people each living to the north, east, south and west of Karlsruhe who travel to the KIT early in the mornig (0720am ...) and return home in the afternoon (0430pm). 
-[Display data: http://senozon.com/products either by loading KA_big_plus.via or by compiling the MATSim project and using the network file and _.events.xml.gz as input data]
+[Display data: http://via.senozon.com/download either by loading KA_big_plus.via or by compiling the MATSim project and using the network file and _.events.xml.gz as input data]
+
+
